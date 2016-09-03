@@ -1,0 +1,28 @@
+body{
+	font-family:arial, verdana, sans-serf;
+	text-align:center;
+	
+}
+header{
+	background-color:#454585;
+	height:100px;
+	width:100%;
+    z-index:5;
+	position:fixed;
+	
+}
+#banner{
+	background-color:#455154;
+	width:100%;
+	height:500px;
+	position:fixed;
+	top:100px;
+
+	}
+#content{
+	background-color:#452545;
+	width:100%;
+	height:1500px;
+	top:400px;
+	position:relative;
+}

@@ -1,0 +1,75 @@
+body{
+	background-image:url("http://wallpapercow.com/wp-content/uploads/2014/11/seaside-hd-desktop-background.jpg");
+	background-position:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+
+}
+div.list{
+	background-color:red;
+	border-radius:10%;
+}
+ul{
+	list-style-type:square;
+	list-style-position:inside;
+	
+}
+li{
+	display:inline-block;
+	font-size:10px;
+	text-transform:uppercase;
+	padding-right:10px;
+	border-top:10px;
+}
+li:first-letter{
+	font-size:20px;
+	
+}
+li:hover{
+	background-color:Black;
+	color:white;
+	font-weight:bold;
+}
+table
+{
+	width:100%;
+	padding-left:10px;
+	border-spacing:10px 5px;;
+	}
+th{
+	text-transform:uppercase;
+	font-weight:bold;
+	font-style:italic;
+	color:grey;
+	border-top:2% solid black; 
+	border-bottom:2%;
+
+}
+td{
+	empty-cells:hide;
+	padding:5px 0px 5px 20px ;
+}
+td:hover{
+	color:grey ;
+	background-color:yellow;
+	font-weight:bold;
+}
+input{
+	font-size:20px;
+	border:1px solid #125412;
+	border-radius:2%;
+}
+img:hover { 
+cursor:move;
+height:auto;
+width:auto;
+transform:scale(1.1);
+-ms-transform:scale(1.1);
+-webkit-transform:scale(1.1);
+-o-transform:scale(1.1);
+-moz-transform:scale(1.1);
+box-shadow:3px 3px 1px #111111;
+
+}
